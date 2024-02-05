@@ -8,3 +8,4 @@ An ecommerce Flutter project.
 -products and categories.
 -add to favourites.
 -add to cart.
+-user profile.
